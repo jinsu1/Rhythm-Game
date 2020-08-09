@@ -1,22 +1,22 @@
 # Rhythm-Game
 ## 작품설명
- eclipse에서 Java로 간단한 리듬게임을 구현했습니다. <br><br>
+ 간단한 리듬게임을 구현했습니다. <br><br>
  3가지 곡을 좌우선택 할 수 있고 곡 별로 Easy 모드와 Hard 모드 선택 시 떨어지는 노트가 변경됩니다.<br><br> 
- 판정 바에 맞춰 키보드 입력 시 5가지(miss, bad, good, great, perfect)의 판정에 따른 점수가 추가됩니다.
-<br>
-## 이미지
+ 판정 바에 맞춰 키보드 입력 시 5가지(miss, bad, good, great, perfect)의 판정에 따른 점수가 추가됩니다. <br>
+ 
+## 개발환경 
+Eclipse<br>
+Java
+## 게임이미지
 메인화면
 
-![메인화면](https://user-images.githubusercontent.com/69416518/89730477-d654c880-da79-11ea-856c-6b835bd9696c.JPG)
-<br>
+![메인화면](https://user-images.githubusercontent.com/69416518/89730477-d654c880-da79-11ea-856c-6b835bd9696c.JPG)<br><br><br>
 곡 선택
 
-![곡 선택](https://user-images.githubusercontent.com/69416518/89730498-0f8d3880-da7a-11ea-8543-cb643afac44e.JPG)
-<br>
+![곡 선택](https://user-images.githubusercontent.com/69416518/89730498-0f8d3880-da7a-11ea-8543-cb643afac44e.JPG)<br><br><br>
 게임실행
 
-![게임실행](https://user-images.githubusercontent.com/69416518/89730777-e7530900-da7c-11ea-86b8-6e5e5bcd4e4f.JPG)
-
+![게임실행](https://user-images.githubusercontent.com/69416518/89730777-e7530900-da7c-11ea-86b8-6e5e5bcd4e4f.JPG)<br><br><br>
 
 ## 부족한 부분 
 
